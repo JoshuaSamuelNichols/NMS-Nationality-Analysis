@@ -2,6 +2,12 @@
 
 This project presents interactive data visualizations using Plotly Dash to display the numerous nationalities of clients from Nashville Music School (NMS). The visualizations provide insights into the diverse client base of NMS and showcase the power of data-driven insights in the field of music teaching.
 
+### Dash Application
+
+To view the interactive graph of the nationalities of my clients, please visit the following link:
+
+[View Graph](http://127.0.0.1:8050/)
+
 ## Features
 
 - Interactive pie charts and graphs showcasing the distribution of nationalities among NMS clients.
