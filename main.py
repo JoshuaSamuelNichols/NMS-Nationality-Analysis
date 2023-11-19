@@ -4,11 +4,11 @@ import dash
 from dash import dcc
 from dash import html
 
-# Read the CSV file from the GitHub URL
+# Read file
 url = ('https://raw.githubusercontent.com/Nichols-Tech/NMS-Data-Nationality/main/NMSDataCountryV1.csv')
 df = pd.read_csv(url)
 
-# Create the Pie chart using Plotly Express
+# Create Plotly chart
 fig = px.pie(df, names='Country', values='Count')
 
 # Create the Dash app
@@ -20,6 +20,6 @@ app.layout = html.Div(children=[
     dcc.Graph(figure=fig)
 ])
 
-# Run the app
+# Run app
 if __name__ == '__main__':
     app.run_server(debug=True)
