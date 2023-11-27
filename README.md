@@ -6,7 +6,14 @@ This project presents interactive data visualizations using Plotly Dash to displ
 
 To view the interactive graph of the nationalities of my clients, please visit the following link after running the program:
 
-[View Graph](http://127.0.0.1:8050/)
+[Graphs] 
+![image](https://github.com/Nichols-Tech/NMS-Data-Nationality/assets/122940415/063edec2-dffd-429a-a1e8-37290a475295)
+
+![image](https://github.com/Nichols-Tech/NMS-Data-Nationality/assets/122940415/a9467043-75dd-44c9-8b0b-1ac787dfe395)
+
+![image](https://github.com/Nichols-Tech/NMS-Data-Nationality/assets/122940415/0149a2b6-c380-402f-8b04-782be5da7cb3)
+
+
 
 
 ## Features
