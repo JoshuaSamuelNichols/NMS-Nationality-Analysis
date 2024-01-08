@@ -1,12 +1,18 @@
-# NMS Data Visualizations
+# Nashville Music School's Nationality Visualization Project
 
-This project presents interactive data visualizations using Plotly Dash to display the numerous nationalities of clients from [Nashville Music School](https://www.facebook.com/nashvillemusicschool) (NMS). The visualizations provide insights into the diverse client base of NMS and showcase the power of data-driven insights in the field of music teaching.
+## Introduction
 
-### Dash Application
+This project showcases Plotly Dash and Jupyter Notebook to construct interactive data visualizations, unveiling the diverse nationalities among clients at [Nashville Music School](https://www.facebook.com/nashvillemusicschool) (NMS). The dynamic dashboard provides a comprehensive view of the cultural richness within NMS's clientele and demonstrates the impactful intersection of data science and music education.
 
-To view the interactive graph of the nationalities of my clients, please visit the following link after running the program:
+# Jupyter Notebook
 
-## Graphs
+This repository contains the code and visualizations for the NMS Student Nationalities project.
+
+- [View the Jupyter Notebook](NMS_Student_Nationalities.ipynb)
+- [Download the PDF Report](https://github.com/Nichols-Tech/Data-NationalityCount-Visualization/blob/main/NMS_Student_Nationalities.pdf)
+
+
+# Excel Graphs
 
 ![image](https://github.com/Nichols-Tech/NMS-Data-Nationality/assets/122940415/063edec2-dffd-429a-a1e8-37290a475295)
 
