@@ -9,7 +9,7 @@ Welcome to Nashville, y'all! You can take a man out of Nashville, but you can't 
 
 # Jupyter Notebook
 
-This repository contains the code and visualizations for the NMS Student Nationality project.
+This repository contains the code and visualizations for the NMS Nationality project.
 
 - [View the Jupyter Notebook](NMS_Nationality_Analysis.ipynb)
 
@@ -23,7 +23,7 @@ This repository contains the code and visualizations for the NMS Student Nationa
 
 ## Features
 
-- Data analytics using Jupyter Notebooks
+- Data analytics using Jupyter Notebook
 - Interactive pie charts and graphs showcasing the distribution of nationalities among NMS clients.
 - Easy-to-use interface built with Plotly Dash for seamless navigation and exploration of the data.
 - Open-source project with an MIT License, allowing for free use, modification, and distribution.
