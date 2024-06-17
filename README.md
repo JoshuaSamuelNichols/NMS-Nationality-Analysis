@@ -26,7 +26,6 @@ This repository contains the code and visualizations for the NMS Nationality pro
 - Data analytics using Jupyter Notebook
 - Interactive pie charts and graphs showcasing the distribution of nationalities among NMS clients.
 - Easy-to-use interface built with Plotly Dash for seamless navigation and exploration of the data.
-- Open-source project with an MIT License, allowing for free use, modification, and distribution.
 
 ## Requirements
 
